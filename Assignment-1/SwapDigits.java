@@ -1,5 +1,5 @@
 import java.util.*;
-public class p4{
+public class SwapDigits{
     public static void main(String[]args){
         int num,a,b;
         Scanner obj=new Scanner(System.in);
