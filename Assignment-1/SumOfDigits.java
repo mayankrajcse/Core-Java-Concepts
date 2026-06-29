@@ -1,5 +1,5 @@
 import java.util.*;
-public class p10{
+public class SumOfDigits{
     public static void main(String[]args){
         int num,sum=0,rem;
         System.out.println("enter the number");
