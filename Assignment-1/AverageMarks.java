@@ -1,5 +1,5 @@
 import java.util.*;
-public class p6{
+public class AverageMarks{
     public static void main(String[]args){
         int avg;
         Scanner obj=new Scanner(System.in);
