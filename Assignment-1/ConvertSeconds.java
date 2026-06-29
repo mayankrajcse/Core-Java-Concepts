@@ -1,5 +1,5 @@
 import java.util.*;
-public class p7{
+public class ConvertSeconds{
     public static void main(String[]args){
         int hour,minute,second,time;
         Scanner obj=new Scanner(System.in);
