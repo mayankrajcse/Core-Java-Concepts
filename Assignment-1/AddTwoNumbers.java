@@ -1,5 +1,5 @@
 import java.util.*;
-public class p2{
+public class AddTwoNumbers{
     public static void main(String[]args){
         float num1=10.25f;
          float num2=20.55f;
