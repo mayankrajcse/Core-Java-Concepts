@@ -1,5 +1,5 @@
 import java.util.*;
-public class p8{
+public class ReverseNumber{
     public static void main(String[]args){
         int num,b,a,c,d,x,y;
         Scanner obj=new Scanner(System.in);
