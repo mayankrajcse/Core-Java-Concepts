@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class p3 {
+public class AddTwoNumbersUser{
     public static void main(String[] args) {
         float num1, num2, sum;
         Scanner obj = new Scanner(System.in);
