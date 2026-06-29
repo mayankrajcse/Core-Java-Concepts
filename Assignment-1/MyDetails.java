@@ -1,5 +1,5 @@
 import java.util.*;
-public class p1{
+public class MyDetails{
     public static void main(String[]args){
         System.out.println("NAME:-MAYANK RAJ");
         System.out.println("BRANCH:-CSE");
