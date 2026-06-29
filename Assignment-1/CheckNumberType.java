@@ -1,5 +1,5 @@
 import java.util.*;
-public class p12{
+public class CheckNumberType{
     public static void main(String[]args){
         System.out.println("Enter a number");
         Scanner obj=new Scanner (System.in);
