@@ -11,10 +11,8 @@ public class QuadratiSolver {
          d=(b*b)-4*a*c;
          if(d<0)
          {
-            x1 = (float) ((-b + Math.sqrt(d)) / (2 * a));
-            x2 = (float) ((-b - Math.sqrt(d)) / (2 * a));
+            x1 = -b/(2 * a);
             System.out.println("x1:"+x1);
-            System.out.println("x2:"+x2);
             System.out.println("IMAGINARY ROOTS");
 
 
