@@ -28,7 +28,7 @@ public class Day_Of_Week {
                 System.out.println("SUNDAY");
                 break;
             default:
-                System.out.println("INVALID INPUT");     
+                System.out.println("INVALID INPUT..");     
         }
 
     }
