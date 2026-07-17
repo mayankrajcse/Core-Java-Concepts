@@ -24,7 +24,7 @@ public class EmployeeRecord{
 
 
         }
-        catch(NumberFormatException e)
+        catch(Exception e)
         {
            System.out.println("Invalid input:Dept Number and Salary must be integers.");
         }
