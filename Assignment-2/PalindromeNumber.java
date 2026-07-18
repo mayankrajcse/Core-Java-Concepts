@@ -19,7 +19,7 @@ public class PalindromeNumber {
         }
         else
         {
-            System.out.println("NOT PALINDROME");
+            System.out.println("NOT PALINDROME NUMBER");
         }
     }
 }
