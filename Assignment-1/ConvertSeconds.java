@@ -3,7 +3,7 @@ public class ConvertSeconds{
     public static void main(String[]args){
         int hour,minute,second,time;
         Scanner obj=new Scanner(System.in);
-        System.out.println("Enter the time in second");
+        System.out.println("Enter the time in second:");
         time=obj.nextInt();
         hour=time/3600;
         minute=(time%3600)/60;
