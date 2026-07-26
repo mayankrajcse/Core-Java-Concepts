@@ -1,21 +1,15 @@
 import java.util.*;
 public class SwapDigits{
     public static void main(String[]args){
-        int num,a,b;
-        Scanner obj=new Scanner(System.in);
-        System.out.println("enter the number");
-        num=obj.nextInt();
-        a=num%10;
-        b=num/10;
-        System.out.println("before swaping a="+a);
-        System.out.println(a);
-        System.out.println("before swaping b="+b);
-        System.out.println(b);
-        System.out.println("after swaping a=");
-        System.out.println(a);
-        System.out.println("after swaping b=");
-        System.out.println(b);
-        obj.close();
+        Scanner sc=new Scanner(System.out);
+        System.out.println("Enter The First Number");
+        int a=sc.nextInt();
+        Sytem.out.println("Enter The Second Number:");
+        int b=sc.nextInt();
+        System.out.println("Before Swapping:a="+a+",b="+b);
+        a=a+b;
+        b=a-b;
+        a=a-b;
+        System.out.println("After Swapping:a="+a+",b="+b);
     }
 }
-/*output is not match*/
