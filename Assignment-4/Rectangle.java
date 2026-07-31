@@ -24,7 +24,7 @@ public class Rectangle{
         System.out.println("Enter The Breadth:");
         int b=sc.nextInt();
         s1.setDim(a,b);
-        System.out.println("Area="+s1.getArea());
+        System.out.println("Area"+s1.getArea());
     }
 }
 
