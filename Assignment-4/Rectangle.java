@@ -3,10 +3,10 @@ class Area
 {
     int length;
     int breadth;
-    public void setDim(int length,int breadth)
+    public void setDim(int m,int n)
     {
-       this.length=length;
-       this.breadth=breadth;
+       this.length=m;
+       this.breadth=n;
     }
 
 public int getArea()
